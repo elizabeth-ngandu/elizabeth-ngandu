@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Elizabeth Wangeci!
+# Hi there 👋, I'm Elizabeth Ngandu!
 
 ## About Me
 - 💻 Data enthusiast & automation developer  
