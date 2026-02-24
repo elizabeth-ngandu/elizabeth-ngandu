@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Elizabeth Wangeci!
 
-<!--
-**elizabeth-ngandu/elizabeth-ngandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Data enthusiast & automation developer  
+- 📊 Love analyzing data, building dashboards, and automating workflows  
+- 🏋️ Gym lover | 🛍️ Soft life vibes  
 
-Here are some ideas to get you started:
+## Skills
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Employee Promotion Recommender](https://github.com/elizabeth-ngandu/employee_promotion_recommender)  
+- [Sales Forecast Analysis](https://github.com/elizabeth-ngandu/sales_forecast_project)  
+
+## Stats
+![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizabeth-ngandu&show_icons=true&theme=radical)
